@@ -2,3 +2,5 @@
 **/fp-info-cache
 **/*-backups/
 **/Gerbers/
+**/fabrication-toolkit-options.json
+**/production/
