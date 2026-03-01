@@ -5496,6 +5496,26 @@
 		)
 		(uuid "0b082bf3-21e9-4f25-aa66-bbba8689a4af")
 	)
+	(label "ENC_BLUE"
+		(at 60.96 176.53 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "1eb8a31e-4e9e-4bd5-a088-4ddc6fb7dce1")
+	)
+	(label "ENC_GREEN"
+		(at 66.04 171.45 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "220f9b38-4b6e-4d95-9f11-a073dbe1d25d")
+	)
 	(label "LED_1_B"
 		(at 57.15 102.87 180)
 		(effects
@@ -5505,6 +5525,16 @@
 			(justify right bottom)
 		)
 		(uuid "36649c24-5aa9-477e-b79b-381456fb1e62")
+	)
+	(label "ENC_RED"
+		(at 82.55 168.91 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "41c45b6c-79bc-4620-b625-0655195e77a8")
 	)
 	(label "LED_2_G"
 		(at 96.52 91.44 0)
@@ -5526,6 +5556,36 @@
 		)
 		(uuid "590059e5-51d9-4a6b-86e9-929ab15e6dac")
 	)
+	(label "ENC_GREEN"
+		(at 66.04 171.45 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "6b9305a5-2848-4abc-be80-a22f517e6575")
+	)
+	(label "ENC_GREEN"
+		(at 82.55 171.45 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "98561d04-30d1-4aad-b65d-6536fd99c400")
+	)
+	(label "ENC_BLUE"
+		(at 82.55 173.99 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "9fa2c173-d484-4389-b3ca-18c986641a33")
+	)
 	(label "LED_2_R"
 		(at 96.52 97.79 0)
 		(effects
@@ -5535,6 +5595,46 @@
 			(justify left bottom)
 		)
 		(uuid "a501a2d9-bd13-4398-b83b-1e5df195a28e")
+	)
+	(label "ENC_BLUE"
+		(at 82.55 173.99 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "b176e34c-7cc7-4596-a868-a0f021742e90")
+	)
+	(label "ENC_RED"
+		(at 82.55 168.91 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "cb86b9ec-cf4e-4140-87eb-4206f3ebb483")
+	)
+	(label "ENC_BLUE"
+		(at 60.96 176.53 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "de7197fe-01ec-440d-a34f-2f9ad406d2c1")
+	)
+	(label "ENC_GREEN"
+		(at 82.55 171.45 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "f1d3cfc1-03b2-4b51-8b15-2faf5cad11f2")
 	)
 	(label "LED_1_G"
 		(at 57.15 92.71 180)
@@ -11804,7 +11904,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "PEL12T-4225S-S1024"
+		(property "Value" "ENC"
 			(at 35.56 193.04 90)
 			(effects
 				(font
